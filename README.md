@@ -1,1 +1,1 @@
-# Decentralized blog
+# Decentralized Blog
